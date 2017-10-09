@@ -1,4 +1,4 @@
-FROM telegraf:1.3-alpine
+FROM telegraf:1.4-alpine
 
 LABEL maintainer="thuan@inspectorio.com"
 
